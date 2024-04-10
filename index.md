@@ -1,28 +1,34 @@
 # one heading
 ## second heading
-### third heading
+### section link to the left
 
-**hello**
+**hello, Styling Text**
 
-*hi*
+*hi Styling Text*
 
-_hi!_
+_hi! Styling Text_
 
->I love quoting, this feels like I am back in english
+>I love quoting text, this feels like I am back in english
 
->print("lab one")
+>print("quoting code")
 
 
 ![Cool cat image](https://t4.ftcdn.net/jpg/00/97/58/97/360_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg)
+External Link
+
 
 This site was helped being built by [GitHub docs](https://github.com/jtung0705/CSE110/edit/main/index.md)
 
+Relative Link
 check out [my other md](README.md)
 
--List 1
--List 2
--List 3
+- Unordered list
+- object1
+- obj2
 
-1. List 1
-2. List 2
+1. Ordered LiST
+2. List 1
 3. List 2
+
+- [x] this lab with a task list
+- [ ] the next lab
