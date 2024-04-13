@@ -9,7 +9,7 @@ _Italics are cool too!_
 
 >I love quoting text, this feels like I am back in english, doing lame Cornell Notes.
 
->print("quoting code")
+> print("quoting code")
 
 
 ![Cool cat image](https://t4.ftcdn.net/jpg/00/97/58/97/360_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg)
