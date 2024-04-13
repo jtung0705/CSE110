@@ -13,6 +13,7 @@ _Italics are cool too!_
 
 
 ![Cool cat image](https://t4.ftcdn.net/jpg/00/97/58/97/360_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg)
+
 That's my cat, I made him using a external link.
 
 This site was helped being built by [GitHub Docs](https://github.com/jtung0705/CSE110/edit/main/index.md)
