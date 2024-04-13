@@ -1,12 +1,11 @@
-# one heading
-## second heading
-### section link to the left
+# Top secret
+## Jeffery's Page:
 
-**hello, Styling Text**
+**hello, this is my Page!**
 
-*hi Styling Text*
+*I love cool fonts*
 
-_hi! Styling Text_
+_Italics are cool too!_
 
 >I love quoting text, this feels like I am back in english
 
@@ -17,7 +16,7 @@ _hi! Styling Text_
 External Link
 
 
-This site was helped being built by [GitHub docs](https://github.com/jtung0705/CSE110/edit/main/index.md)
+This site was helped being built by [GitHub Docs](https://github.com/jtung0705/CSE110/edit/main/index.md)
 
 Relative Link
 check out [my other md](README.md)
@@ -32,3 +31,5 @@ check out [my other md](README.md)
 
 - [x] this lab with a task list
 - [ ] the next lab
+
+## Botton Secret
